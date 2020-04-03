@@ -52,5 +52,8 @@
     "postcss-scss": "^2.0.0",
     "postcss-syntax": ">=0.36.2",
     "sugarss": "^2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
