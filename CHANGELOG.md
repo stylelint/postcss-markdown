@@ -1,5 +1,9 @@
 # Changelog
 
+## Head
+
+- Fixed: add postcss-html to peer dependencies
+
 ## 0.36.2
 
 - Fixed: outdated remark dependencies
